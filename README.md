@@ -1,6 +1,7 @@
 # KaggleDay1
 This is part of the 30 days of ml with kaggle.
- if this is your first time entering a Kaggle competition, regardless of whether you:
+
+ If this is your first time entering a Kaggle competition, regardless of whether you:
   1.have experience with handling large datasets,
   2.haven't done much coding,
   3.are newer to data science, or
